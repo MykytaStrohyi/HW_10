@@ -1,0 +1,131 @@
+    1  man ls
+    2  man ls
+    3  help ls
+    4  help help
+    5  q
+    6  q
+    7  q
+    8  q
+    9  q
+   10  q
+   11  help ls
+   12  help ls
+   13  man -k ls
+   14  man ls
+   15  man -k ls
+   16  help help
+   17  man k ls
+   18  clear
+   19  ls
+   20  LS
+   21  clear
+   22  ls -help
+   23  ls - help
+   24  ls help
+   25  ls
+   26  ls
+   27  help ls
+   28  man ls
+   29  ls
+   30  cd дз
+   31  cd ~
+   32  man ls
+   33  help ls
+   34  help man
+   35  clear
+   36  ls
+   37  ls
+   38  mkdir TestF1
+   39  ls TestF1
+   40  touch filel.txt
+   41  vim filel.txt
+   42  nano filel.txt
+   43  cat filel.txt
+   44  clear
+   45  ifconfig
+   46  ifconfig
+   47  ping
+   48  cd ~
+   49  ifconfig
+   50  ping
+   51  date
+   52  system_profiler
+   53  system_profil
+   54  system profiler
+   55  clear
+   56  ping
+   57  clear
+   58  ifconfig
+   59  df -h
+   60  ipconfig
+   61  ipconfig -all
+   62  git config --global user.name "Mykyta Strohyi"
+   63  git config --global user.email nstrogiyy@gmail.com
+   64  git status
+   65  clear
+   66  cd ~
+   67  git clone https://github.com/MykytaStrohyi/HW_10.git
+   68  git_config --global user.name "Mykyta Strohyi"
+   69  git config --global user.name "Mykyta Strohyi"
+   70  git config --global user.email nstrogiyy@gmail.com
+   71  cd HW_10
+   72  touch text_ignore.txt
+   73  cd .gitignore
+   74  text_ignore.txt
+   75  "text_ignore.txt" .gitignore
+   76  echo "text_ignore.txt" .gitignore
+   77  git status
+   78  git add
+   79  commt
+   80  commit
+   81  git add .gitignore
+   82  git status
+   83  git add "text_ignore.txt"
+   84  git status
+   85  commit
+   86  git commit
+   87  git status
+   88  echo "text_ignore.txt" >> .gitignore
+   89  touch text_ignore.txt
+   90  git status
+   91  gitt add
+   92  git add
+   93  git add .
+   94  git satus
+   95  git status
+   96  git rm text_ignore.txt
+   97  git status
+   98  git clone https://github.com/MykytaStrohyi/HW_10.git
+   99  cd HW_10
+  100  touch text_ignore.txt
+  101  echo "text_ignore.txt" >> .gitignore
+  102  git status
+  103  git add .
+  104  git commit
+  105  git status
+  106  git log
+  107  git status
+  108  git clone https://github.com/MykytaStrohyi/HW_10.git
+  109  cd HW_10
+  110  touch text_ignore.txt
+  111  echo "text_ignore.txt" >> .gitignore
+  112  git status
+  113  git add .
+  114  git commit -m "Файл тхт ігнорується"
+  115  touch main_test.txt
+  116  git add .
+  117  git commit -m "Файл мейн тест створений"
+  118  git checkout -b develop
+  119  git branch
+  120  touch develop_test.txt
+  121  git add .
+  122  git commit -m "Гілку та порожній файл створено"
+  123  nano develop_test.txt
+  124  git status
+  125  git add .
+  126  git commit -m "У файл були внесені зміни"
+  127  git checkout main
+  128  git merge branch_develop
+  129  git merge develop
+  130  git log
+  131  history>command_list.csv
